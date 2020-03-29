@@ -1,0 +1,35 @@
+Grocery Store
+4bf58dd8d48988d118951735
+
+Convenience Store
+4d954b0ea243a5684a65b473
+
+Super Market
+52f2ab2ebcbc57f1066b8b46
+
+Fruit & Vegetable Store
+52f2ab2ebcbc57f1066b8b1c
+
+Butcher
+4bf58dd8d48988d11d951735
+
+Emergency Room
+4bf58dd8d48988d194941735
+
+Hospital
+4bf58dd8d48988d196941735
+
+Drugstore
+5745c2e4498e11e7bccabdbd
+
+Medical Supply Store
+58daa1558bbb0b01f18ec206
+
+Pharmacy
+4bf58dd8d48988d10f951735
+
+Doctors Office
+4bf58dd8d48988d177941735
+
+Urgent Care center
+56aa371be4b08b9a8d573526
